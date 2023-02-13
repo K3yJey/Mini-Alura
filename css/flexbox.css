@@ -25,9 +25,17 @@
     justify-content: center;
 }
 
+.videoSobre-video {
+    width: 50%;
+    justify-content: space-between;
+}
+
 .videoSobre-sobre {
     width: 50%;
     align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-between;
 }
 
 .videoSobre-sobre-title, .videoSobre-sobre-item {
@@ -42,8 +50,8 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    width: 100%;
-    margin-top: 15%;
+    width: 80%;
+    margin: 10%;
 }
 
 .rodapePrincipal-navMap .container {
