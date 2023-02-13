@@ -208,8 +208,7 @@ body {
 	margin-bottom: 10px;
 }
 
-
-@media all and (min-width: 1024px) and (max-width: 1349px) {
+@media all and (min-width: 1024px) and (max-width: 1920px) {
 	.headerPrincipal .container {
 		display: flex;
 		align-items: center;
@@ -264,7 +263,7 @@ body {
 		justify-content: center;
 		text-align: center;
 		width: 80%;
-		margin: 10%;
+		margin: 8%;
 	}
 	
 	.rodapePrincipal-navMap .container {
