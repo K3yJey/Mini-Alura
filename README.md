@@ -3,7 +3,7 @@
 ![image](https://cdn.jsdelivr.net/gh/K3yJey/Mini-Alura@main/img/homePage_MiniAlura.png)
 
 ## Sobre el Repositorio
-Primer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Page que replica a pequeña escala la página principal de Alura, el objetivo era utilizar la propiedad FlexBox en CSS para organizar esta Landing Page. AÚN NO SE APLICA EL RESPONSIVE DESIGN.
+Primer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Page que replica a pequeña escala la página principal de Alura, el objetivo era utilizar la propiedad FlexBox en CSS para organizar esta Landing Page.
 
 ## ✔️ [El proyecto aquí](https://github.com/K3yJey/Mini-Alura.git)
 
