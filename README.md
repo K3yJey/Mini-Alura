@@ -12,7 +12,7 @@ Primer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Pa
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📌 Comentarios adicionales
-El proyecto sigue en curso, y se están corrigiendo errores de código, además de la implementación del Responsive Design.
+Proyecto culminado, se corrigieron errores y se implementó el Responsive Design.
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
