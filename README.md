@@ -15,7 +15,7 @@ Primer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Pa
 Proyecto culminado, se corrigieron errores y se implementó el Responsive Design.
 
 ## ▶️ Prueba la Aplicación Web - Github Pages
-* Github Pages => [Mini Alura](https://k3yjey.github.io/Mini-Alura/)
+* Github Pages => [Mini Alura](https://k3yjey.github.io/webPage-MiniAlura/)
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
