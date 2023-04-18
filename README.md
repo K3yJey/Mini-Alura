@@ -1,6 +1,5 @@
 # Landing Page - Mini Alura
-
-![image](https://cdn.jsdelivr.net/gh/K3yJey/Mini-Alura@main/img/homePage_MiniAlura.png)
+![image](https://cdn.jsdelivr.net/gh/K3yJey/webPage-MiniAlura@main/assets/img/homePage_MiniAlura.png)
 
 ## 📦Sobre el Repositorio
 Primer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Page que replica a pequeña escala la página principal de Alura, el objetivo era utilizar la propiedad FlexBox en CSS para organizar esta Landing Page.
