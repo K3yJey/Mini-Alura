@@ -1,4 +1,3 @@
-/*Style*/
 body {
   background-color: #f2f5f7;
   font-family: "Open Sans", Arial, sans-serif;
@@ -127,14 +126,17 @@ body {
   color: #ec6e5a;
   border-left: 4px solid #ec6e5a;
 }
+
 .navmap-list-title-framework {
   color: #ad85bf;
   border-left: 4px solid #ad85bf;
 }
+
 .navmap-list-title-frontend {
   color: #5ec6f3;
   border-left: 4px solid #5ec6f3;
 }
+
 .navmap-list-title-backend {
   color: #25d285;
   border-left: 4px solid #25d285;

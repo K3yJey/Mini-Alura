@@ -1,17 +1,18 @@
-# Landing Page - Mini Alura
-![image](https://cdn.jsdelivr.net/gh/K3yJey/webPage-MiniAlura@main/assets/img/homePage_MiniAlura.png)
+# Mini Alura Landing Page
 
-## 📦Sobre el Repositorio
-Primer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Page que replica a pequeña escala la página principal de Alura, el objetivo era utilizar la propiedad FlexBox en CSS para organizar esta Landing Page.
+### Description
 
-## ✔️ [El proyecto aquí](https://github.com/K3yJey/Mini-Alura.git)
+Mini Alura landing page, replicates on a small scale the main page of Alura, with the FlexBox property in CSS for the landing page organization.
 
-## 🔧 Tecnologías utilizadas
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Technologies
 
-## 📌 Comentarios adicionales
-Proyecto culminado, se corrigieron errores y se implementó el Responsive Design.
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 💻 Contacto
-* Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
+### Aditionals Commets
+
+Project completed.
+
+### Developer contact
+
+[LinkedIn](https://www.linkedin.com/in/k3yjey-dev/)
